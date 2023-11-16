@@ -1,6 +1,6 @@
 # lista-de-compras
 
-This template should help get you started developing with Vue 3 in Vite.
+Proyecto creado para Open Webinars, curso Vue 3 en la practica 2023
 
 ## Recommended IDE Setup
 
